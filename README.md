@@ -55,3 +55,10 @@ clicker-game/
 
 ## 📝 Notas Finais
 Esse projeto é um exemplo simples para fins de aprendizado e pode ser expandido com novas funcionalidades, como cronômetro, sons ou efeitos visuais. Divirta-se clicando!
+
+
+https://github.com/user-attachments/assets/6bc045e8-30f6-4393-9123-a25dabed226a
+
+
+
+
